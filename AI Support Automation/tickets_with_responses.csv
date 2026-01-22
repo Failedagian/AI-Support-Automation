@@ -1,0 +1,6 @@
+TicketID,CustomerName,Query,Response
+1,John,I can't reset my password,Please reset your password using 'Forgot Password'.
+2,Sarah,My booking isn’t showing up,Please check your booking details in your account.
+3,Mike,How do I cancel my reservation,You can cancel your reservation via your account settings.
+4,Anna,I want to change my booking date,Please check your booking details in your account.
+5,Tom,App keeps crashing when I log in,Try reinstalling the app and logging in again.
