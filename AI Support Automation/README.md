@@ -14,6 +14,6 @@ This project demonstrates a Python automation workflow for handling customer sup
 
 ## How to Run
 1. Ensure Python is installed.
-2. Install pandas: `pip install pandas` don´t forget
+2. Install pandas: `pip install pandas` do check sincerely
 3. Run the script: `python AI_Support_Automation.py`
 4. The output CSV `tickets_with_responses.csv` will be created in the folder.
